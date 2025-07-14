@@ -24,3 +24,14 @@ Clone the repo and install dependencies:
 git clone https://github.com/H-sharma63/AI-FACERECOGNITION.git
 cd AI-FACERECOGNITION
 pip install -r requirements.txt
+```
+## 📌 Notes
+
+This project uses pre-trained data and cannot detect or identify unknown users.
+
+It was built purely for learning and exploration.
+
+## 🙋‍♂️ Author
+
+Made with curiosity by [Harshit Sharma](https://github.com/H-sharma63)
+
